@@ -1,5 +1,4 @@
 def first_student_by_index
-  student_name=["Adele","Beyoncé","Cardi B","Lady Gaga","Nicki Minaj","Rihanna"]
 return student_name [0] 
 end
 
